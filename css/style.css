@@ -1,0 +1,37 @@
+body {
+    background-color: #282425;
+}
+
+.winner-screen {
+    margin: auto;
+    background-color: rgb(40, 36, 37);
+    color: rgb(251, 190, 21);
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.winner-screen a {
+    text-decoration: none;
+    color: rgb(251, 190, 21);
+    font-weight: bolder;
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+}
+
+#timer {
+    padding-left: 460px;
+}
+
+.text-personalize {
+    color: white;
+}
+
+.container-edit {
+    background-color: #282425;
+}
